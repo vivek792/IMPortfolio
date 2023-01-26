@@ -11586,8 +11586,8 @@ footer.footer .social-link:hover {
   border-radius: 5px;
   overflow: hidden;
   margin: 5em auto;
-  height: 350px;
-  width: 700px;
+  height: 50%;
+  width: 60%;
 }
 
 /*.product-details {
